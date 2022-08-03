@@ -1,6 +1,4 @@
-# Shell Scripting Course
-
-## Vagrant commands
+#  Vagrant Commands
 
 ```
 vagrant box add debian/buster64 #Download a debian 10 image
