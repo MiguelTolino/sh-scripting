@@ -3,6 +3,8 @@
 
 🔗 [Vagrant README](vagrant_examples/README.md)
 
+![Bash image](https://www.cyberciti.biz/media/new/cms/2015/05/learn-bash-logo.jpg)
+
 
 ## Learn Bash
 🔗 [Learn Bash](LearnBash.sh)
