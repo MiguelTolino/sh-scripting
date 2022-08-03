@@ -1,7 +1,11 @@
-#  Bash Scripting
-[Bash scripting Cheatsheet](https://devhints.io/bash)
+# 📜 Bash Scripting
+🔗 [Bash scripting Cheatsheet](https://devhints.io/bash)
 
-[Vagrant README](vagrant_examples/README.md)
+🔗 [Vagrant README](vagrant_examples/README.md)
+
+
+## Learn Bash
+🔗 [Learn Bash](LearnBash.sh)
 
 ~~~
 
