@@ -1,4 +1,24 @@
 # 📜 Bash Scripting
+
+Learn how to shell script through project-based training (Bash Scripting, Bash Programming, Sed, Grep, Awk, and More)
+
+### Method
+
+1. Learn about Vagrant -  a tool for building and managing virtual machine environments in a single workflow a tool for building and managing virtual machine environments in a single workflow
+	- [Vagrant](https://www.vagrantup.com/)
+	- [Vagrant commands resume](vagrant_examples/README.md)
+
+2. Learn bash scripting
+	- Read the script below
+	- Take a course
+	- Do the exercises
+		- [Bash scripting exercises](exercises.md)
+		- [Bash scripting exercises](shellclass/exercises)
+
+3. Practice!!!!
+
+## Resources
+
 🔗 [Bash scripting Cheatsheet](https://devhints.io/bash)
 
 🔗 [Vagrant README](vagrant_examples/README.md)
@@ -7,7 +27,8 @@
 
 
 ## Learn Bash
-🔗 [Learn Bash](LearnBash.sh)
+
+🔗 [A simple script which contains some bash stuffs](LearnBash.sh)
 
 ~~~
 
