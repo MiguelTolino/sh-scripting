@@ -13,7 +13,7 @@ Learn how to shell script through project-based training (Bash Scripting, Bash P
 	- Take a course
 	- Do the exercises
 		- [Bash scripting exercises](exercises.md)
-		- [Bash scripting exercises](shellclass/exercises)
+		- [Shellclass exercises](shellclass/exercises)
 
 3. Practice!!!!
 
