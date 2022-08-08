@@ -23,6 +23,8 @@ Learn how to shell script through project-based training (Bash Scripting, Bash P
 
 🔗 [Vagrant README](vagrant_examples/README.md)
 
+🔗 [Bash-script recap](localusers-module-recap.pdf)
+
 ![Bash image](https://www.cyberciti.biz/media/new/cms/2015/05/learn-bash-logo.jpg)
 
 
