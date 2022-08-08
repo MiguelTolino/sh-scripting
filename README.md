@@ -10,7 +10,7 @@ Learn how to shell script through project-based training (Bash Scripting, Bash P
 
 2. Learn bash scripting
 	- Read the script below
-	- Take a course
+	- [Udemy Bash-Scripting Course](https://www.udemy.com/course/linux-shell-scripting-projects/)
 	- Do the exercises
 		- [Bash scripting exercises](exercises.md)
 		- [Shellclass exercises](shellclass/exercises)
