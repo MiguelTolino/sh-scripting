@@ -2,7 +2,7 @@
 
 Learn how to shell script through project-based training (Bash Scripting, Bash Programming, Sed, Grep, Awk, and More)
 
-### Method
+### Guidelines
 
 1. Learn about Vagrant -  a tool for building and managing virtual machine environments in a single workflow a tool for building and managing virtual machine environments in a single workflow
 	- [Vagrant](https://www.vagrantup.com/)
